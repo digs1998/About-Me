@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I am Digvijay Yadav
 
-<!--
-**digs1998/digs1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I am a Machine Learning and Deep Learning Enthusiast with interests in Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a Technical Writer in Medium and Analytics Vidhya and I have written some blogs as well you can check it [here](https://medium.com/@digvijayyadav48)
+
+I am an active notebooks contributor at Kaggle currently as 2X Expert in Notebooks and Discussion, my [profile](https://www.kaggle.com/digvijayyadav)
+
+# Skills
+1. Python 
+2. MATLAB (basic level)
+3. Machine Learning
+4. Data Visualization
+5. Tensorflow
+6. Pytorch
+
+# My Projects
+- 🔭 I’m currently working on [Malarial Cell Classification](https://github.com/digs1998/Malaria-with-Deep-Learning) and others..
+- 👯 I’m looking to collaborate on projects related to Music generation using RNNs
+- 🤔 I’m looking for help with any Deep Learning or Machine Learning based projects
+- 📫 How to reach me: 
+LinkedIN(https://www.linkedin.com/in/digvijay-yadav-20781a15a)
+Email(digvijayyadav48@gmail.com)
+Kaggle(https://www.kaggle.com/digvijayyadav)
+
+
+
