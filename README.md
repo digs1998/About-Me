@@ -4,7 +4,12 @@
 
 I am a Machine Learning and Deep Learning Enthusiast with interests in Computer Vision
 
-I am also a Technical Writer in Medium and Analytics Vidhya and I have written some blogs as well you can check it [here](https://medium.com/@digvijayyadav48)
+I am also a Technical Writer in Medium and Analytics Vidhya and I have written some blogs as well
+
+My Blogs:
+
+1. https://medium.com/analytics-vidhya/breast-cancer-classification-using-knn-algorithm-61257de55e9c
+2. https://medium.com/analytics-vidhya/workflow-guide-to-machine-learning-c0545c843f04
 
 I am an active notebooks contributor at Kaggle currently as 2X Expert in Notebooks and Discussion, my [profile](https://www.kaggle.com/digvijayyadav)
 
