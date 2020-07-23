@@ -21,9 +21,10 @@ I am an active notebooks contributor at Kaggle currently as 2X Expert in Noteboo
 - 👯 I’m looking to collaborate on projects related to Music generation using RNNs
 - 🤔 I’m looking for help with any Deep Learning or Machine Learning based projects
 - 📫 How to reach me: 
-LinkedIN(https://www.linkedin.com/in/digvijay-yadav-20781a15a)
-Email(digvijayyadav48@gmail.com)
-Kaggle(https://www.kaggle.com/digvijayyadav)
+
+1. LinkedIN(https://www.linkedin.com/in/digvijay-yadav-20781a15a)
+2. Email(digvijayyadav48@gmail.com)
+3. Kaggle(https://www.kaggle.com/digvijayyadav)
 
 
 
