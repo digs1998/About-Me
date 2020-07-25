@@ -22,7 +22,7 @@ I am an active notebooks contributor at Kaggle currently as 2X Expert in Noteboo
 6. Pytorch
 
 # My Projects
-- 🔭 I’m currently working on [Malarial Cell Classification](https://github.com/digs1998/Malaria-with-Deep-Learning) and others..
+- 🔭 I’m currently working on [Malarial Cell Classification](https://github.com/digs1998/Malaria-with-Deep-Learning) and [Detection of COVID-19 from Cough samples](https://www.hackster.io/354788/covid-19-pre-screening-using-deep-learning-on-edge-31d14f)
 - 👯 I’m looking to collaborate on projects related to Music generation using RNNs
 - 🤔 I’m looking for help with any Deep Learning or Machine Learning based projects
 - 📫 How to reach me: 
