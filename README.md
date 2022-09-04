@@ -20,7 +20,7 @@ My Blogs:
 5. Tensorflow
 
 # My Projects
-- 🔭 Some of my projects include [Stroke Detection using Posture Estimation and Detection](https://devpost.com/software/team-digvi), [Parkinson’s Biomarkers Identification using R],  [Detection of COVID-19 from Cough samples](https://www.hackster.io/354788/covid-19-pre-screening-using-deep-learning-on-edge-31d14f)
+- 🔭 Some of my projects include [Stroke Detection using Posture Estimation and Detection](https://devpost.com/software/team-digvi), **Parkinson’s Biomarkers Identification using R**,  [Detection of COVID-19 from Cough samples](https://www.hackster.io/354788/covid-19-pre-screening-using-deep-learning-on-edge-31d14f)
 
 - 🤔 I’m looking for internship opportunities starting Summer 2023 in Data Science related roles.
 - 📫 How to reach me: 
